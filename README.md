@@ -1,1 +1,1 @@
-# Agentic-AI-Medical-writing-
+# Agentic-AI-Medical-writing
